@@ -25,4 +25,6 @@ Tecnologías utilizadas
 Importante
 -
 El servidor debe estar ejecutándose antes de iniciar las conexiones de los jugadores. Ambos clientes deben utilizar la misma dirección IP y puerto configurados en el servidor.
-
+<p align="center">
+  <img src= "https://github.com/ADALBERTORUIZCHAVEZ/ElGatoDosJugadores/blob/main/Elgato.PNG" alt="logo"/>
+</p>
